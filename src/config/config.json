@@ -1,0 +1,40 @@
+{
+  "site": {
+    "title": "Bunker Technologies Solutions",
+    "base_url": "https://bigspring-light-astro.vercel.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.ico",
+    "logo": "/images/logo.png",
+    "logo_width": "55",
+    "logo_height": "55",
+    "logo_text": "BUNKER"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Contáctanos",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "/contact",
+    "footer_content": "Bunker Technologies Solutions — Desarrollo de software, ciberseguridad, integraciones y consultoría técnica. Soluciones confiables y escalables para su negocio.",
+    "copyright": "© Bunker Technologies Solutions"
+  },
+
+  "metadata": {
+    "meta_author": "Bunker Technologies Solutions",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Sitio oficial de Bunker Technologies Solutions — desarrollo web, ciberseguridad y soluciones en la nube."
+  },
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  }
+}
