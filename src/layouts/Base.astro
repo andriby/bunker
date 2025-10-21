@@ -128,7 +128,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta property="og:type" content="website" />
     <meta
       property="og:url"
-      content={`${config.site.base_url}/${Astro.url.pathname.replace("/", "")}`}
+      content={Astro.url.href}
     />
 
     <!-- twitter-title -->
@@ -150,17 +150,13 @@ const { title, meta_title, description, image, noindex, canonical } =
     <!-- og-image -->
     <meta
       property="og:image"
-      content={`${config.site.base_url}${
-        image ? image : config.metadata.meta_image
-      }`}
+      content={`${Astro.site}${(image ? image : config.metadata.meta_image).replace(/^\//, '')}`}
     />
 
     <!-- twitter-image -->
     <meta
       name="twitter:image"
-      content={`${config.site.base_url}${
-        image ? image : config.metadata.meta_image
-      }`}
+      content={`${Astro.site}${(image ? image : config.metadata.meta_image).replace(/^\//, '')}`}
     />
     <meta name="twitter:card" content="summary_large_image" />
   </head>
