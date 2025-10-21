@@ -12,7 +12,7 @@ import config from "./src/config/config.json";
 // https://astro.build/config
 export default defineConfig({
   site: "https://andriby.github.io/bunker/",
-  base: "/",
+  base: "/bunker/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   image: { service: sharp() },
   vite: { plugins: [tailwindcss()] },
