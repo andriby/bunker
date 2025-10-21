@@ -6,7 +6,7 @@ banner:
   button:
     enable: true
     label: "Contáctanos"
-    link: "/contact"
+    link: "/bunker/contact"
 
 # feature
 feature:
@@ -42,7 +42,7 @@ services:
     button:
       enable: true
       label: "Ver detalles"
-      link: /contact
+      link: /bunker/contact
 
   - title: "Seguridad y ciberseguridad gestionada"
     content: "Auditorías, pruebas de penetración y hardening de infraestructuras para proteger datos y operaciones críticas."
@@ -51,7 +51,7 @@ services:
     button:
       enable: true
       label: "Ver detalles"
-      link: /contact
+      link: /bunker/contact
 
   - title: "Integraciones y APIs empresariales"
     content: "Diseñamos y desarrollamos integraciones fiables entre sistemas internos y servicios externos para automatizar procesos."
@@ -62,7 +62,7 @@ services:
     button:
       enable: true
       label: "Ver detalles"
-      link: /contact
+      link: /bunker/contact
 
   - title: "Equipos dedicados y consultoría técnica"
     content: "Proveemos equipos expertos por proyecto o por tiempo determinado, junto a consultoría para arquitectura y buenas prácticas."
@@ -73,7 +73,7 @@ services:
     button:
       enable: true
       label: "Ver detalles"
-      link: /contact
+      link: /bunker/contact
 
 # workflow
 workflow:
@@ -92,5 +92,5 @@ call_to_action:
   button:
     enable: true
     label: "Solicitar cotización"
-    link: "/contact"
+    link: "/bunker/contact"
 ---

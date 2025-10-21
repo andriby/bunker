@@ -43,7 +43,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
           <div class="md:col-6">
             <h2 class="h3 mb-2 mt-4">
               <a
-                href={`/blog/${currentPosts[0].id}`}
+                href={`/bunker/blog/${currentPosts[0].id}`}
                 class="block hover:text-primary"
               >
                 {currentPosts[0].data.title}
@@ -54,7 +54,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
             />
             <a
               class="btn btn-primary mt-4"
-              href={`/blog/${currentPosts[0].id}`}
+              href={`/bunker/blog/${currentPosts[0].id}`}
               rel=""
             >
               Ver mas
