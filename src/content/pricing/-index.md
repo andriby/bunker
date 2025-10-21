@@ -48,7 +48,7 @@ plans:
 call_to_action:
   title: "¿Necesitas una solución a medida?"
   content: "En Bunker diseñamos, desarrollamos e implementamos soluciones de software adaptadas a la complejidad de tu negocio. Ponte en contacto para definir alcance, plazos y presupuesto."
-  image: '/bunker/images/cta-bunker.png'
+  image: '/bunker/images/cta.png'
   button:
     enable: true
     label: "Contactar ahora"
