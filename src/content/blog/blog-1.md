@@ -1,7 +1,7 @@
 ---
 title: "Sistema de Fideicomiso BANFANB (en desarrollo)"
 description: "Avances y arquitectura del sistema de fideicomisos desarrollado para BANFANB — funcionalidades, estado actual y próximos hitos."
-image: "/images/blog-1.png"
+image: "/bunker/images/blog-1.png"
 date: 2025-10-17T05:00:00Z
 draft: false
 ---

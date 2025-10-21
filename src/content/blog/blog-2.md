@@ -1,7 +1,7 @@
 ---
 title: "Sistema BDV: Conformación de Expedientes (en desarrollo)"
 description: "Descripción y avances del sistema para la conformación de expedientes del Banco de Desarrollo de Venezuela (BDV) — estado actual, funcionalidades clave y próximos pasos."
-image: "/images/blog-2.png"
+image: "/bunker/images/blog-2.png"
 date: 2025-10-17T05:00:00Z
 draft: false
 ---

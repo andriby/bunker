@@ -4,8 +4,8 @@
     "base_url": "https://bigspring-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.ico",
-    "logo": "/images/logo.png",
+    "favicon": "/bunker/images/favicon.ico",
+    "logo": "/bunker/images/logo.png",
     "logo_width": "55",
     "logo_height": "55",
     "logo_text": "BUNKER"
@@ -30,7 +30,7 @@
 
   "metadata": {
     "meta_author": "Bunker Technologies Solutions",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "/bunker/images/og-image.png",
     "meta_description": "Sitio oficial de Bunker Technologies Solutions — desarrollo web, ciberseguridad y soluciones en la nube."
   },
   "google_tag_manager": {
