@@ -2,23 +2,23 @@
   "main": [
     {
       "name": "Principal",
-      "url": "/"
+      "url": "/bunker"
     },
     {
       "name": "Portafolio",
-      "url": "/blog"
+      "url": "/bunker/blog"
     },
     {
       "name": "Planes",
-      "url": "/pricing"
+      "url": "/bunker/pricing"
     },
     {
       "name": "Contacto",
-      "url": "/contact"
+      "url": "/bunker/contact"
     },
     {
       "name": "FAQ",
-      "url": "/faq"
+      "url": "/bunker/faq"
     }
   ],
   "footer": [
@@ -27,7 +27,7 @@
       "menu": [
         {
           "text": "Planes",
-          "url": "/pricing"
+          "url": "/bunker/pricing"
         }
       ]
     },
@@ -53,15 +53,15 @@
       "menu": [
         {
           "text": "FAQ",
-          "url": "/faq"
+          "url": "/bunker/faq"
         },
         {
           "text": "Privacidad",
-          "url": "/privacy-policy"
+          "url": "/bunker/privacy-policy"
         },
         {
           "text": "Terminos y Condiciones",
-          "url": "/terms-conditions"
+          "url": "/bunker/terms-conditions"
         }
       ]
     }
