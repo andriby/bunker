@@ -14,7 +14,7 @@ plans:
       - Soporte por 30 días
     button:
       label: "Solicitar cotización"
-      link: "/contact"
+      link: "/bunker/contact"
 
   - title: Professional
     subtitle: Para equipos y productos en crecimiento
@@ -29,7 +29,7 @@ plans:
       - Auditoría de seguridad básica
     button:
       label: "Contactar ventas"
-      link: "/contact"
+      link: "/bunker/contact"
 
   - title: Enterprise
     subtitle: Soluciones a medida para organizaciones
@@ -43,7 +43,7 @@ plans:
       - Formación y transferencia de conocimiento
     button:
       label: "Hablar con un especialista"
-      link: "/contact"
+      link: "/bunker/contact"
 
 call_to_action:
   title: "¿Necesitas una solución a medida?"
@@ -52,5 +52,5 @@ call_to_action:
   button:
     enable: true
     label: "Contactar ahora"
-    link: "/contact"
+    link: "/bunker/contact"
 ---
