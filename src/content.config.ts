@@ -176,5 +176,5 @@ export const collections = {
   pages: pagesCollection,
   contact: contactCollection,
   pricing: pricingCollection,
-  faq: faqCollection,
+  faq: faqCollection
 };
